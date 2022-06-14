@@ -6,8 +6,9 @@ function increment(){
     if (currentNumber <= 15 ){
 	return currentNumberWrapper.innerHTML = currentNumber;
 	}
-	else{currentNumber = 15;}
+	else{currentNumber = 15; alert('Achou que eu estava brincando?')}
 }
+
 
 function decrement(){
 	currentNumber = currentNumber - 1;
