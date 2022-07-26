@@ -1,3 +1,5 @@
 # Contador
 Primeiro projeto usando JavaScript.
-![count](https://user-images.githubusercontent.com/106848192/181105372-6c6e35ea-c42e-43b2-931c-36fa160ee05b.PNG)
+
+
+![image](https://user-images.githubusercontent.com/106848192/181105551-b026d4d4-f820-451d-990b-44acef18fb31.png)
